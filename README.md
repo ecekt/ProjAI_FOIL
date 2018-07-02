@@ -10,6 +10,8 @@ VQA : http://visualqa.org/
 
 Guesswhat?! : https://guesswhat.ai/
 
+FOIL : https://foilunitn.github.io/
+
 ## Models:
 
 HieCoAtt: https://github.com/jiasenlu/HieCoAttenVQA
