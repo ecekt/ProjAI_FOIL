@@ -5,12 +5,12 @@ Repository for the Project AI course project
 
 MSCOCO : http://cocodataset.org
 
+FOIL : https://foilunitn.github.io/
+
 ## Tasks:
 VQA : http://visualqa.org/
 
 Guesswhat?! : https://guesswhat.ai/
-
-FOIL : https://foilunitn.github.io/
 
 ## Models:
 
