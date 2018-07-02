@@ -7,6 +7,7 @@ MSCOCO : http://cocodataset.org
 
 ## Tasks:
 VQA : http://visualqa.org/
+
 Guesswhat?! : https://guesswhat.ai/
 
 ## Models:
@@ -15,4 +16,6 @@ HieCoAtt: https://github.com/jiasenlu/HieCoAttenVQA
 
 GDSE: https://github.com/AashishV/GDSE
 
-Analysis results: https://docs.google.com/spreadsheets/d/1w6p6HZZPw5glvhBMrF1m6LGTZSsjdDkBo_GaMNObmU0/edit?usp=sharing
+## Analysis results:
+
+https://docs.google.com/spreadsheets/d/1w6p6HZZPw5glvhBMrF1m6LGTZSsjdDkBo_GaMNObmU0/edit?usp=sharing
