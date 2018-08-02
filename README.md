@@ -17,7 +17,3 @@ Guesswhat?! : https://guesswhat.ai/
 HieCoAtt: https://github.com/jiasenlu/HieCoAttenVQA
 
 GDSE: https://github.com/AashishV/GDSE
-
-## Analysis results:
-
-https://docs.google.com/spreadsheets/d/1w6p6HZZPw5glvhBMrF1m6LGTZSsjdDkBo_GaMNObmU0/edit?usp=sharing
